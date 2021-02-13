@@ -17,7 +17,10 @@
 <br/><br/><br/>
 <br/>
 
-<h2 align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliors1&show_icons=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliors1&hide=stars,issues&count_private=true&show_icons=true&bg_color=0000&title_color=FFF&text_color=FFF&icon_color=FFF">
+</p>
+
  --- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juliors1) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juliors1/)  
