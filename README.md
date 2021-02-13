@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliors1&hide=stars,issues&count_private=true&show_icons=true&bg_color=0000&title_color=0000FF&text_color=0000FF&icon_color=0000FF">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliors1&hide=stars,issues&count_private=true&show_icons=true&bg_color=20232a&title_color=61d9fa&text_color=61d9fa&icon_color=61d9fa">
 </p>
 
  --- 
