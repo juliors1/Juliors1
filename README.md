@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 , my name is Julio Rojas </h1>
+<h1 align="center"> Hi there 👋 , I'm Julio Rojas </h1>
 
 <h3 align="center"> I am an innovative full-stack software engineer with a passion to bring beautiful, responsive, scalable web applications to life. A collaborator who enjoys problem-solving. I am always in search of...growth and find fulfillment in helping companies achieve their objectives in web development.</h3>
 
@@ -17,9 +17,7 @@
 <br/><br/><br/>
 <br/>
 
-<p align="center">
 <h2 align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliors1&show_icons=true)  
-</p>
  --- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juliors1) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juliors1/)  
